@@ -13,7 +13,7 @@ Concept prototype. Simulated data, not live Meesho data; not connected to Meesho
 ### 2. Clone and install
 ```bash
 git clone <your-repo-url>
-cd farsh-prototype        # the folder that contains package.json
+cd Farsh        # the folder that contains package.json
 npm install               # installs dependencies into node_modules/ (not stored in the repo)
 ```
 `npm ci` also works and installs the exact versions pinned in `package-lock.json`.
